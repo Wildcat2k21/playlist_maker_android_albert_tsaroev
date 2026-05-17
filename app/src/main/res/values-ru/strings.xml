@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">Ошибка</string>
+    <string name="search">Поиск</string>
+    <string name="clear_search">Очистить поиск</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="add_playlist">Добавить плейлист</string>
+    <string name="favourites">Избранное</string>
+    <string name="settings">Настройки</string>
+    <string name="songs">Треки</string>
+    <string name="no_songs_found">Треки не найдены</string>
+    <string name="server_error">На сервере произошла ошибка</string>
+    <string name="refresh">Обновить</string>
+    <string name="playlist_not_found">Плейлист не найден</string>
+    <string name="playlist_empty">В этом плейлисте пока нет треков</string>
+    <string name="save_playlist">Сохранить</string>
+    <string name="player_no_track">Трек не выбран</string>
+    <string name="preview_not_available">Превью для этого трека недоступно</string>
+    <string name="playlists_empty">Список плейлистов пуст</string>
+    <string name="arrow_forward">Стрелка вперёд</string>
+    <string name="arrow_back">Стрелка назад</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="share_app">Поделиться приложением</string>
+    <string name="share_app_text">Скачай моё приложение!</string>
+    <string name="message_to_support">Написать в поддержку</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="email_subject">Сообщение разработчикам и разработчицам приложения PlaylistApp Maker</string>
+    <string name="email_text">Спасибо разработчикам и разработчицам за крутое приложение!</string>
+    <string name="favorites_screen_empty">В избранном нет треков</string>
+    <string name="create_playlist_title">Новый плейлист</string>
+    <string name="playlist_name">Название плейлиста</string>
+    <string name="playlist_description">Описание</string>
+    <string name="track_details">Детали трека</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="add_to_playlist">Добавить в плейлист</string>
+    <string name="select_playlist">Выбрать плейлист</string>
+    <string name="added_to_favorites_message">Добавлено в избранное</string>
+    <string name="removed_from_favorites_message">Удалено из избранного</string>
+    <string name="remove_from_favorites_title">Удалить из избранного?</string>
+    <string name="remove_from_favorites_message">Трек будет удален из списка избранного.</string>
+    <string name="added_to_playlist_message">Добавлено в плейлист: %1$s</string>
+    <string name="removed_from_playlist_message">Удалено из плейлиста: %1$s</string>
+    <string name="delete_playlist">Удалить плейлист</string>
+    <string name="delete_playlist_title">Удалить плейлист?</string>
+    <string name="delete_playlist_message">Плейлист и его треки будут удалены из этого плейлиста.</string>
+    <string name="delete_track_title">Удалить трек?</string>
+    <string name="delete_track_message">Трек будет удален из этого плейлиста.</string>
+    <string name="delete_action">Удалить</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="playlist_deleted_message">Плейлист удален</string>
+    <plurals name="tracks_count">
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+        <item quantity="other">%d трека</item>
+    </plurals>
+    <plurals name="minutes_count">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минуты</item>
+    </plurals>
+</resources>
