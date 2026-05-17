@@ -1,4 +1,4 @@
-package com.example.playlist_maket_android_albert.ui.theme
+package com.practicum.playlistmaker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
